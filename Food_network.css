@@ -26,7 +26,7 @@ button{
     width: 60%;
 }
 .Food{
-    font-size:80px;
+    
 }
 .add_image{
     background-image:url(/shapes/Frame\ 57.jpg);
@@ -34,16 +34,30 @@ button{
     background-size:1200px ;
 }
 .food-item{
-    box-shadow:5px,5px,10px,rgb(235, 231, 231);
+   box-shadow:5px,10px,1700px  green ;
+   width:50%;
+   margin-left:5px;
+   margin-right:5px;
+   border-radius:15px;
+
     
+}
+.food-item image{
+    border-radius:15px;
 }
 .change-area{
     width:60%;
 }
 .change-area img{
-    width:60%;
+    width:100%;
 }
 body{
     margin:0;
     padding:0;
+}
+.food{
+    font-size:50px;
+}
+.image_border{
+    border-radius:20px;
 }
