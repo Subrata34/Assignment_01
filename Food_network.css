@@ -34,7 +34,7 @@ button{
     background-size:1200px ;
 }
 .food-item{
-   box-shadow:5px,10px,1700px  green ;
+   box-shadow:5px,10px,1700px,green ;
    width:50%;
    margin-left:5px;
    margin-right:5px;
@@ -60,4 +60,8 @@ body{
 }
 .image_border{
     border-radius:20px;
+}
+.exceptional-item{
+    text-align: center;
+    font-size: 20px;
 }
