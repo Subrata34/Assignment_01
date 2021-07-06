@@ -9,6 +9,7 @@ h1{
     display:flex;
     width:80%;
     padding:80px ;
+    margin-bottom:60px;
 }
 button{
     font-size:12px;
@@ -31,6 +32,18 @@ button{
     background-image:url(/shapes/Frame\ 57.jpg);
     background-repeat:no-repeat ;
     background-size:1200px ;
-    border-right:15px;
+}
+.food-item{
+    box-shadow:5px,5px,10px,rgb(235, 231, 231);
     
+}
+.change-area{
+    width:60%;
+}
+.change-area img{
+    width:60%;
+}
+body{
+    margin:0;
+    padding:0;
 }
