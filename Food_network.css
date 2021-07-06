@@ -1,3 +1,15 @@
 h1{
     color:brown;
+
+}
+#colors{
+    color:rgb(74, 139, 8);
+}
+.food-align{
+    display:flex;
+}
+button{
+    color:black;
+    background-color:green ;
+    margin:0;
 }
