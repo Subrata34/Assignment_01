@@ -16,8 +16,7 @@ button{
     color:black;
     background-color:green ;
     border:0;
-    text-decoration:none ;
-    text-align: center;  
+    text-align:center;  
     padding:10px 10px;
     border-radius:15px ;
 
@@ -50,6 +49,7 @@ button{
 }
 .change-area img{
     width:100%;
+    border-bottom-left-radius: 15px;
 }
 body{
     margin:0;
@@ -64,4 +64,17 @@ body{
 .exceptional-item{
     text-align: center;
     font-size: 20px;
+}
+section{
+    margin:-1;
+    width:110%;
+}
+footer {
+    color:chocolate;
+    text-align: center;
+    background-color:black;
+}
+footer span{
+    color:rgb(238, 71, 11);
+    
 }
