@@ -24,6 +24,13 @@ button{
 #image-size{
     width: 60%;
 }
-#Food{
+.Food{
     font-size:80px;
+}
+.add_image{
+    background-image:url(/shapes/Frame\ 57.jpg);
+    background-repeat:no-repeat ;
+    background-size:1200px ;
+    border-right:15px;
+    
 }
